@@ -1,4 +1,4 @@
-User-agent: GPTBot
+﻿User-agent: GPTBot
 Disallow: /
 
 User-agent: ChatGPT-User
@@ -111,4 +111,4 @@ Allow: /
 User-agent: *
 Disallow: /
 
-Sitemap: https://chefalvin007.github.io/alvin-borromeo/sitemap.xml
+Sitemap: https://algorithmandcodes.github.io/alvin-borromeo/sitemap.xml
